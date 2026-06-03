@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agroforte — Futuro Sustentável | Equilíbrio entre Produção e Meio Ambiente</title>
+    
+    <!-- Fontes Externas -->
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- LINK PARA O ARQUIVO CSS SEPARADO -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Seu conteúdo HTML da Nav, Hero e Ticker entra aqui -->
+
+    <!-- LINK PARA O ARQUIVO JAVASCRIPT SEPARADO (antes do fechamento do body) -->
+    <script src="script.js"></script>
+</body>
+</html>
